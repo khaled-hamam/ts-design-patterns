@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 
 ![Design Patterns Explained.](https://user-images.githubusercontent.com/24835522/98734738-11350800-23ab-11eb-9838-74822d78bc49.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkhaled-hamam%2Fdesign-patterns-explained.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkhaled-hamam%2Fdesign-patterns-explained?ref=badge_shield)
 
 ---
 
@@ -87,3 +88,7 @@ $ npm run format
 3. [Refactoring.guru](https://refactoring.guru)
 4. [SourceMaking.com](https://sourcemaking.com/design_patterns)
 5. [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkhaled-hamam%2Fdesign-patterns-explained.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkhaled-hamam%2Fdesign-patterns-explained?ref=badge_large)
